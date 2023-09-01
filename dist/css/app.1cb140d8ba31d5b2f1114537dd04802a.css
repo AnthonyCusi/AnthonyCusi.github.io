@@ -57,3 +57,14 @@ a.header_ext[target="_blank"]::after {
 .section-title {
     padding-top: 30px;
 }
+
+.navbar a {
+    margin-top: 11px;
+    margin-left: 5px;
+    display: flex;
+    float: left;
+    display: block;
+    text-align: center;
+    padding: 14px 16px;
+}
+
